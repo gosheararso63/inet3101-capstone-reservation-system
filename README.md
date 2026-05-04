@@ -71,3 +71,6 @@ For the demo video, show the following features:
 9. Generate the reservation report.
 10. Delete a reservation.
 11. Exit the program without errors.
+=======
+# inet3101-capstone-reservation-system
+C-based Air/Train/Bus Reservation System with gdbm database integration, supporting full CRUD operations, seat management, and persistent storage.
